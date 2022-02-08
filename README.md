@@ -12,3 +12,9 @@ Dependencies:
         
         
         https://start.spring.io/
+        
+        
+        
+       1. Jstl   ========= >      https://mvnrepository.com/artifact/jstl/jstl/1.2
+       
+       2.tomcal-embed-jasper =========>   https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-jasper
