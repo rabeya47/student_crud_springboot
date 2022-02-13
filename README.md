@@ -25,7 +25,7 @@ Dependencies:
 add student:
 ============
 
- <div class="mb-3">
+                                <div class="mb-3">
 					Gender: <input type="radio" class="form-check-input" id="gender"
 						name="gender" value="male">Male <input type="radio"
 						class="form-check-input" id="gender" name="gender" value="female">Female
